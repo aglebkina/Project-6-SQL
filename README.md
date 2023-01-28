@@ -3,3 +3,4 @@
 Description of project:
 1. Work with databases using different SQL queries
 2. Work with databases using Cygwin terminal
+3. Creating a database dump and restoring from a dump
